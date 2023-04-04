@@ -1,1 +1,1 @@
-Primeiro exercicio do curso. 
+Primeiro exercicio do curso de DDS!
